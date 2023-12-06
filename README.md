@@ -1,5 +1,5 @@
 ### Hi there 👋, Welcome to my digital world.
-
+- 🔭 I’m currently working on Few-shot learning for image&video classification 
 <!--
 **Miao980901/Miao980901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
